@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sympthoms: MyText
+  active: false
+  name: MyString
+
+two:
+  sympthoms: MyText
+  active: false
+  name: MyString
