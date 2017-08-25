@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  born: 2017-08-25
+  alive: false
+  passedaway: 2017-08-25 03:02:09
+
+two:
+  name: MyString
+  born: 2017-08-25
+  alive: false
+  passedaway: 2017-08-25 03:02:09
