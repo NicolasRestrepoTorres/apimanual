@@ -1,5 +1,4 @@
 Rails.application.routes.draw do
-  root "computers#index"
   resources :computers
   resources :diseases
   resources :beds
